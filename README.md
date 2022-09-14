@@ -2,9 +2,9 @@
 
 Hello! I'm Jay!
 
-🏫 Studying Mathematics/Financial Analysis and Risk Management (2A) at the University of Waterloo
+🏫 Studying Computational Mathematics (3A) at the University of Waterloo
 
-💻 Languages I use: C, Python, Java
+💻 Languages I use: C, C++ Python, Java
 
 🔨 Tools I use: VS Code, Android Studio, Google Colab
 
